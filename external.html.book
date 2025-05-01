@@ -2,34 +2,34 @@
 <html>
 
 <head>
-<title>Example Book</title>
+<title>Book of Books</title>
 <meta charset="UTF-8">
 </head>
 
 <body>
-<h1>Example Book</h1>
-<p>This is my book! I made it myself and I hope you enjoy it. In this book, all of my links are external. In my other version of my book, all of my links are internal.</p>
+<h1>Book of Books</h1>
+<p>This is my book of books, truly just a handful of books that I have read recently. In this book, all of my links are external. In my other version of my book, all of my links are internal.</p>
 
 <h2>Table of Contents</h2>
 
 <p>
-<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/all%20the%20dangerous%20things.jpg">1. The Project Gutenberg eBook of Old Boston Taverns and Tavern Clubs</a>
+<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/all%20the%20dangerous%20things.jpg">1. Cover of All the Dangerous Things by Stacey Willingham</a>
 </p>
 
 <p>
-<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/first%20lie%20wins.jpg">2. The Project Gutenberg eBook of An Old-Fashioned Girl</a>
+<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/first%20lie%20wins.jpg">2. Cover of First Lie Wins by Ashley Elston</a>
 </p>
 
 <p>
-<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/how%20to%20solve%20your%20own%20murder.jpg">3. The Project Gutenberg eBook of North of Boston</a>
+<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/how%20to%20solve%20your%20own%20murder.jpg">3. Cover of How to Solve Your Own Murder by Kristen Perrin</a>
 </p>
 
  <p>
-<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/jane%20austen's%20bookshelf.jpg">3. The Project Gutenberg eBook of North of Boston</a>
+<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/jane%20austen's%20bookshelf.jpg">4. Cover of Jane Austen's Bookshelf by Rebecca Romney</a>
 </p>
 
 <p>
-<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/the%20bookshop.jpg">3. The Project Gutenberg eBook of North of Boston</a>
+<a href="https://raw.githubusercontent.com/ninaps17/ninaps17.github.io/refs/heads/main/the%20bookshop.jpg">5. Cover of The Bookshop by Evan Friss</a>
 </p>
 
 </body>
